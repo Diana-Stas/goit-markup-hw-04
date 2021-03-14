@@ -69,6 +69,7 @@ a {
 .section {
   padding-top: 94px;
   padding-bottom: 94px;
+  background-color: yellow;
 }
 /* ==============================СТИЛИ ХЕДЕРА=============================== */
 .header .container {
